@@ -7,8 +7,8 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'Quiz'
-copyright = '2023, Paavel Romanovskii'
-author = 'Paavel Romanovskii'
+copyright = '2023, Pavel Romanovskii'
+author = 'Pavel Romanovskii'
 release = '29.07.1994'
 
 # -- General configuration ---------------------------------------------------
